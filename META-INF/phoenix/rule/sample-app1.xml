@@ -1,3 +1,0 @@
-<config>
-	<rule artifactId="dpsf-net" use="app">don't upgrade</rule>
-</config>
